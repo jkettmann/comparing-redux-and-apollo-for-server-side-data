@@ -1,7 +1,6 @@
 {
-  "name": "2-comparing-redux-and-apollo",
+  "name": "2-comparing-redux-and-apollo-for-server-side-data",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "apollo-boost": "^0.1.27",
     "apollo-server-express": "^2.3.3",
